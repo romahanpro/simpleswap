@@ -2,7 +2,7 @@
   "name": "stableswap",
   "description": "StableSwap Exchange Protocol",
   "version": "0.1.0",
-  "homepage": "https://simpleswap.pelith.com",
+  "homepage": "https://vigilant-roentgen-c02aa2.netlify.app",
   "private": true,
   "dependencies": {
     "@reach/dialog": "^0.2.8",
